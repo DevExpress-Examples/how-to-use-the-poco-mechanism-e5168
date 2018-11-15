@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[LoginView.xaml](./CS/View/LoginView.xaml) (VB: [LoginView.xaml](./VB/View/LoginView.xaml))**
+* [LoginViewModel.cs](./CS/ViewModel/LoginViewModel.cs) (VB: [LoginViewModel.vb](./VB/ViewModel/LoginViewModel.vb))
+<!-- default file list end -->
 # How to: Use the POCO Mechanism
 
 
